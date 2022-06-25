@@ -20,5 +20,5 @@ git push origin :div
  $ git push --delete origin v2.0
  
  
- https://avatars.githubusercontent.com/u/83404626?s=400&u=097b36627cce9ae3dd1d55c897317c1107fd4e37&v=4
+[https://github.com/account](https://avatars.githubusercontent.com/u/83404626?v=4)
  
