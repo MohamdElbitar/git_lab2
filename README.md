@@ -19,6 +19,6 @@ git push origin :div
  remote
  $ git push --delete origin v2.0
  
+
  
-[https://github.com/account](https://avatars.githubusercontent.com/u/83404626?v=4)
- 
+![inde](https://user-images.githubusercontent.com/83404626/175773038-cf0a4799-c197-4a91-8356-f5e97d8882b5.jpeg)
